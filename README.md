@@ -29,11 +29,13 @@ interactive des données.
 - Python
 - Bibliothèques standard : `time`, `collections (deque)`
 
-## Structure du projet
+## Structure du projet 
+```
 mini-projet-ordonnancement/
 ├── src/
-│   └── main.py  
-└── README.md   
+│ └── main.py
+└── README.md
+```
 
 
 ## Exécution
