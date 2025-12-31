@@ -1,5 +1,7 @@
 # Mini-projet – Ordonnancement CPU
 
+> Note: This project is currently documented in French.
+
 ## Présentation
 Ce projet simule l’ordonnancement des processus dans un système
 d’exploitation. Il permet de comparer plusieurs algorithmes classiques
