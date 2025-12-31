@@ -30,9 +30,12 @@ interactive des données.
 - Bibliothèques standard : `time`, `collections (deque)`
 
 ## Structure du projet
-mini-projet-ordonnancement/
+mini-projet-ordonnancement
+/
 ├── src/
+
 │ └── main.py
+
 └── README.md
 
 ## Exécution
